@@ -3,7 +3,7 @@
 [![Build Zebra](https://github.com/zbrateam/Zebra/actions/workflows/build.yml/badge.svg)](https://github.com/zbrateam/Zebra/actions)
 [![Crowdin](https://badges.crowdin.net/zebra/localized.svg)](https://translate.getzbra.com/project/zebra)
 
-Zebra (née AUPM) is a package manager for jailbroken iOS devices, allowing you to install tweaks, themes, and other handy utilities not available through the App Store.
+Zebra (née AUPM) is a package manager for jailbroken iOS devices, allowing you to install tweaks, themes, and other handy utilities not available through the App Store. Plz Complie
 
 > This branch corresponds to Zebra 2, which is currently in active development. Zebra 2 supports iOS 14+ and macOS 11+. If you’re looking for Zebra 1, the current stable release which supports iOS 9 – 14, see the [`v1`](https://github.com/zbrateam/Zebra/tree/v1) branch.
 
